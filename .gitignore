@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# NuGet
+packages/
+
+# Archivos de usuario
+*.user
+*.suo
+*.cache

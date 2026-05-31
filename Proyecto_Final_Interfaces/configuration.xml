@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Configuration>
+	<database>
+		<connectionString>Server=LAPTOP-9JKO8GTJ\SQLEXPRESS; Database=DB_reference222; User Id=sa; Password=1234; TrustServerCertificate=True;</connectionString>
+	</database>
+</Configuration>
