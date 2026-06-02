@@ -8,10 +8,7 @@ The project also implements Dependency Injection (DI) through constructor inject
 
 Communication with the test instruments is handled through the NI-VISA API, enabling automated measurement acquisition and instrument control using industry-standard communication protocols.
 
-## Instruments used.
 
-- Agilent 34401A Digital Multimeter.
-- Agilent 66312A DC Power Supply.
 
 # Technologies used.
 
@@ -43,3 +40,9 @@ The application was developed using a graphical user interface (GUI) architectur
 - NI-VISA (Ivi.Visa / NationalInstruments.Visa) for instrument communication
 - SCPI (Standard Commands for Programmable Instruments) for programmable test equipment control
 - Modbus communication for interfacing with the Sealevel module
+
+
+## Instruments.
+
+- Agilent 34401A Digital Multimeter.
+- Agilent 66312A DC Power Supply.
